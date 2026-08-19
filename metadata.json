@@ -1,0 +1,6 @@
+{
+  "name": "Solvia Sustainability Initiative",
+  "description": "Solvia Sustainability Initiative website showcasing community waste-to-value programs, environmental education, and sustainable agriculture across Zambia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
